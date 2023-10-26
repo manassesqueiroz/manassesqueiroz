@@ -18,7 +18,7 @@
       "Description": "Custom functions executed at the edge, optimizing content delivery and user experience",
       "Link": "https://supabase.io/docs/guides/functions"
     }
-  },
+  ],
   "Contact Links": {
     "LinkedIn": "https://www.linkedin.com/in/manasses-queiroz-2aa342233/",
     "Twitter": "https://twitter.com/manasses_dev",
